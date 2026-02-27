@@ -2,7 +2,7 @@ using System;
 
 namespace C_Project
 {
-    internal class Program
+    internal class BANK
     {
         
         static void Main(string[] args)
