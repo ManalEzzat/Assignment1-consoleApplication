@@ -1,0 +1,14 @@
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\bin\Debug\net10.0\Student-Faculty Information System.exe
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\bin\Debug\net10.0\Student-Faculty Information System.deps.json
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\bin\Debug\net10.0\Student-Faculty Information System.runtimeconfig.json
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\bin\Debug\net10.0\Student-Faculty Information System.dll
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\bin\Debug\net10.0\Student-Faculty Information System.pdb
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\obj\Debug\net10.0\Student-Faculty Information System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\obj\Debug\net10.0\Student-Faculty Information System.AssemblyInfoInputs.cache
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\obj\Debug\net10.0\Student-Faculty Information System.AssemblyInfo.cs
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\obj\Debug\net10.0\Student-Faculty Information System.csproj.CoreCompileInputs.cache
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\obj\Debug\net10.0\Student-Faculty Information System.dll
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\obj\Debug\net10.0\refint\Student-Faculty Information System.dll
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\obj\Debug\net10.0\Student-Faculty Information System.pdb
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\obj\Debug\net10.0\Student-Faculty Information System.genruntimeconfig.cache
+C:\Users\MAHMOUD\source\repos\Mangment System\Mangment System\obj\Debug\net10.0\ref\Student-Faculty Information System.dll
